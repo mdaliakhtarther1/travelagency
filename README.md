@@ -1,0 +1,2 @@
+# travelagency
+This project is aimed at developing an offline application for the Travel Agency Management System for different users through a login. The system is an offline application that can be accessed by any user through a login. This system can be used as an application for the user to manage the information of various tours and trips. Every user should be able to upload  information and search individual details. Users access/search any information of their own and other user’s travel details. 
